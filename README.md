@@ -188,3 +188,5 @@ Jira < 8.5.13
  if its not running redirecting to login panel then run it with curl
  
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+/rest/menu/latest/admin?maxResults=1000
